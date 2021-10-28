@@ -15,6 +15,10 @@ public class NewClass {
         
         
         System.out.println("Improved version");
+        
+        System.out.println("Improved version");
+        System.out.println("Improved version");
+        System.out.println("Improved version");
     }
     
 }
