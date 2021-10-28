@@ -12,7 +12,9 @@ package occ.week3;
 public class NewClass {
     
     public NewClass(){
-        System.out.println("New Class");
+        
+        
+        System.out.println("Improved version");
     }
     
 }
